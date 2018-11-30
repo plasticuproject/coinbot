@@ -17,7 +17,7 @@ bot = commands.Bot(command_prefix='%')
 client = Client('<API KEY>', '<API SECRET>')
 
 # build list of coinbase supported digital currencies
-coins = ['BTC', 'LTC', 'BCH', 'ETH', 'ETC']
+coins = ['BTC', 'LTC', 'BCH', 'ETH', 'ETC', 'BAT', 'ZRX', 'USDC']
 
 
 @bot.event
