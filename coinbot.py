@@ -1,6 +1,9 @@
 '''
 Coinbot is a simple bot that returns basic information from
 Coinbase.com about digital currencies, in USD format.
+
+# by plasticuproject
+# MIT LICENSE
 '''
 
 import discord
