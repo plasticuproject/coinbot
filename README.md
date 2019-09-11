@@ -6,7 +6,7 @@ Coinbase.com about digital currencies, in USD format. <br />
 Python 3.x and PIP
 ```
 pip install coinbase
-pip install -U https://github.com/Rapptz/discord.py/archive/rewrite.zip
+pip install -U discord.py
 ```
 
 ## Installation
